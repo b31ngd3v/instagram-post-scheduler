@@ -52,10 +52,10 @@ def post():
 
     time.sleep(7)
 
-    expnd_btn = browser.find_element_by_class_name('pHnkA')
-    expnd_btn.click()
+    #expnd_btn = browser.find_element_by_class_name('pHnkA')
+    #expnd_btn.click()
 
-    time.sleep(1)
+    #time.sleep(1)
 
     nxt_btn = browser.find_element_by_class_name('UP43G')
     nxt_btn.click()
