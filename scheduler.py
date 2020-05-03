@@ -47,7 +47,7 @@ def post():
 
     time.sleep(5)
 
-    pyautogui.write("file_path")  # File Path Where Pic/Vid is Stored That You Want To Upload
+    pyautogui.write(file_path)
     pyautogui.press('enter')
 
     time.sleep(7)
