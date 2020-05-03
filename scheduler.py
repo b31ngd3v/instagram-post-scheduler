@@ -19,6 +19,7 @@ def post():
 
     usrname_bar = browser.find_element_by_name('username')  # Find the username bar
     passwrd_bar = browser.find_element_by_name('password')  # Find the password bar
+    file_path = r"C:\Users\P Sinha\Desktop\Capture.png"  # File Path Where Pic/Vid is Stored That You Want To Upload
 
     username = 'USERNAME'  # Enter your username here
     password = 'PASSWORD'  # Enter your password here
@@ -46,8 +47,7 @@ def post():
 
     time.sleep(5)
 
-    pyautogui.write(
-        r"C:\Users\P Sinha\Desktop\Capture.png")  # File Path Where Pic/Vid is Stored That You Want To Upload
+    pyautogui.write("file_path")  # File Path Where Pic/Vid is Stored That You Want To Upload
     pyautogui.press('enter')
 
     time.sleep(7)
