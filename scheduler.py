@@ -22,7 +22,7 @@ def post():
 
     username = 'USERNAME'  # Enter your username here
     password = 'PASSWORD'  # Enter your password here
-    file_path = r"C:\Users\P Sinha\Desktop\Capture.png"  # File Path Where Pic/Vid is Stored That You Want To Upload
+    file_path = r"C:\Users\P Sinha\Desktop\Capture.png"  # File Path Where Picture is Stored That You Want To Upload
 
     usrname_bar.send_keys(username)
     passwrd_bar.send_keys(password + Keys.ENTER)
