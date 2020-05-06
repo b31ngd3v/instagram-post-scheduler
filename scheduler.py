@@ -76,7 +76,7 @@ def post():
     print('''
     Successfully Uploaded!
 
-    Python Program by
+    Python Programme by
       ___   ___ _      _         
      | _ \ / __(_)_ _ | |_  __ _ 
      |  _/ \__ \ | ' \| ' \/ _` |
