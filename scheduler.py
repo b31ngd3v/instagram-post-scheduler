@@ -82,9 +82,9 @@ def post():
      |  _/ \__ \ | ' \| ' \/ _` |
      |_|   |___/_|_||_|_||_\__,_|
 
-    Follow me on Instagram @sinha.py 
-    
-    Github @sinhapy
+    Follow me on Instagram @codeinpy 
+
+    Github codein-py
     ''')
     x += 1
 
