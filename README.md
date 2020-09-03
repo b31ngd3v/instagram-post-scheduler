@@ -53,7 +53,7 @@ pip install PyAutoGUI
 
 ## Run
 
-* Run the programme using:
+* Run the program using:
 
 ```bash
 python scheduler.py
