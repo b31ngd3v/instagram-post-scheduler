@@ -76,15 +76,15 @@ def post():
     print('''
     Successfully Uploaded!
 
-    Python Programme by
+    Python Program by
       ___   ___ _      _         
      | _ \ / __(_)_ _ | |_  __ _ 
      |  _/ \__ \ | ' \| ' \/ _` |
      |_|   |___/_|_||_|_||_\__,_|
 
-    Follow me on Instagram @codeinpy 
+    Follow me on Instagram @b31ngd3v
 
-    Github codein-py
+    Github b31ngd3v
     ''')
     x += 1
 
